@@ -43,3 +43,7 @@ The GUI directly initializes the relevant classes, linking to backend functional
 
 This project demonstrates a comprehensive approach to building a rental management system, addressing all coursework specifications while prioritizing usability, scalability, and functionality. 
 The modular design, extensive data processing, and interactive GUI make it a robust solution for managing and recommending bike rentals.
+
+<div class="alert alert-block alert-info">
+<b>Tip:</b> "To effectively run the whole project please download the archived folder."
+</div>
