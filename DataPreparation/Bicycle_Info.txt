@@ -1,0 +1,51 @@
+BicycleID	Brand	Type	FrameSize	RentalRate	Status	DateOfPurchase	Condition
+1	Bianchi	Road Bike	Small	50/day;300/week	Rented	2024-10-15	Good
+2	Cannondale	BMX	Large	50/day;300/week	Available	2021-06-16	New
+3	Bianchi	Road Bike	Small	30/day;250/week	Under Maintenance	2024-08-10	Damaged
+4	Cannondale	Folding Bike	Medium	30/day;250/week	Available		Damaged
+5	Giant	Road Bike	Large	50/day;300/week	Under Maintenance	2022-05-01	New
+6	BMC	Folding Bike	Large	50/day;300/week	Under Maintenance	2022-12-15	New
+7	Cannondale	Mountain Bike	Small	20/day;100/week	Under Maintenance		Damaged
+8	Cannondale	Folding Bike	Medium	20/day;100/week	Available	2021-06-15	New
+9	Specialized	Electric Bike	Small	40/day;300/week	Available	2023-03-20	Good
+10	Giant	Hybrid	Large	20/day;100/week	Under Maintenance	2020-11-11	Damaged
+11	Cannondale	Mountain Bike		60/day;400/week	Rented	2020-11-11	Good
+12	Cannondale	BMX	Small	30/day;250/week	Rented	2020-11-11	Damaged
+13	Trek	Electric Bike	Medium	40/day;300/week	Under Maintenance	2023-03-20	New
+14	Cannondale	Folding Bike	Large	60/day;400/week	Under Maintenance	2020-11-11	New
+15	Trek	Road Bike	Medium	30/day;250/week	Under Maintenance	2021-06-15	Good
+16	Giant	Gravel Bike	Large	30/day;250/week	Under Maintenance	2023-07-05	New
+17	Trek	Gravel Bike	Medium	60/day;400/week	Rented	2023-07-06	Good
+18	Bianchi	Folding Bike	Small	40/day;300/week	Under Maintenance	2022-08-10	Good
+19	Bianchi	Road Bike	Medium	30/day;250/week	Rented	2022-05-01	Good
+20	Bianchi	Mountain Bike	Small	20/day;100/week	Under Maintenance	2020-11-11	Good
+21	Specialized	Mountain Bike	Large	20/day;100/week	Under Maintenance	2023-03-20	Good
+22	Trek	Gravel Bike	Small	30/day;250/week	Under Maintenance	2023-03-20	Damaged
+23	Bianchi	Mountain Bike	Medium	40/day;300/week	Under Maintenance	2023-07-05	Good
+24	Specialized	Mountain Bike	Medium	50/day;300/week	Rented	2021-06-15	Good
+25	Bianchi	BMX		20/day;100/week	Under Maintenance	2023-07-05	New
+26	Bianchi	Electric Bike	Medium	30/day;250/week	Under Maintenance	2022-08-10	New
+27	Bianchi	Folding Bike		60/day;400/week	Rented	2021-06-15	New
+28	Trek	Road Bike	Small	20/day;100/week	Available	2022-05-01	Good
+29	Cannondale	Folding Bike	Medium	60/day;400/week	Available	2023-07-05	Good
+30	Cannondale	Folding Bike	Large	40/day;300/week	Available	2023-03-20	Damaged
+31	Trek	Hybrid	Medium	20/day;100/week	Rented	2022-08-10	Good
+32	Trek	Folding Bike	Small	60/day;400/week	Available	2020-11-11	Damaged
+33	Specialized	Hybrid	Large	40/day;300/week	Under Maintenance	2022-08-10	Damaged
+34	Specialized	Electric Bike		30/day;250/week	Under Maintenance	2020-11-11	New
+35	Trek	Mountain Bike	Small	40/day;300/week	Rented	2023-03-20	Good
+36	Merida	Hybrid	Large	30/day;250/week	Rented	2020-11-11	New
+37	Bianchi	Electric Bike	Small	50/day;300/week	Rented	2022-05-01	New
+38	Giant	Folding Bike	Small	30/day;250/week	Under Maintenance	2022-05-02	Good
+39	Bianchi	Electric Bike	Large	40/day;300/week	Rented	2022-08-10	New
+40	Trek	Hybrid	Large	20/day;100/week	Available	2022-08-10	New
+41	BMC	Hybrid	Small	20/day;100/week	Available	2023-07-05	Good
+42	Trek	Folding Bike	Large	40/day;300/week	Rented	2022-08-10	Damaged
+43	Trek	Electric Bike	Large	50/day;300/week	Available	2023-03-20	Damaged
+44	Bianchi	Electric Bike		30/day;250/week	Rented	2020-11-11	Damaged
+45	Trek	Hybrid	Medium	40/day;300/week	Available	2023-07-05	New
+46	Merida	Mountain Bike	Small	60/day;400/week	Available	2022-08-10	New
+47	Bianchi	BMX	Medium	60/day;400/week	Available	2020-11-11	Damaged
+48	Merida	Mountain Bike	Small	30/day;250/week	Under Maintenance	2022-08-10	New
+49	Cannondale	BMX	Large	30/day;250/week	Rented	2023-03-20	Damaged
+50	Bianchi	Hybrid	Medium	60/day;400/week	Under Maintenance	2023-07-05	New

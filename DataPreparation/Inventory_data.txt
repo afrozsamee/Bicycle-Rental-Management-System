@@ -1,0 +1,114 @@
+Price	Image URL	Brand_Name	Size	Type	Gender	Speed	Frame	Brake_Type	Age
+209.99	https://m.media-amazon.com/images/I/71bM-9kKqQL._AC_UY218_.jpg	Hiland	29 Inch	Mountain Bike	Men	21 Speeds	High-Tensile Steel Frame	V Brake	Adults
+949	https://m.media-amazon.com/images/I/71cJWirAwyL._AC_UY218_.jpg	E-bike		Mountain Bike	Women				Adults
+169.99	https://m.media-amazon.com/images/I/61OwPoOpGVL._AC_UY218_.jpg	HILAND	20 Inch		boys				
+254.99	https://m.media-amazon.com/images/I/81DPZ3XfrwL._AC_UY218_.jpg	Mountain		Mountain Bike		21 Speeds		Disc Brake	
+150	https://m.media-amazon.com/images/I/61zFR6j3wzL._AC_UY218_.jpg	Simply		Hybrid Bike	Men	21 Speed			
+259.99	https://m.media-amazon.com/images/I/81qN7R3j1zL._AC_UY218_.jpg	Mountain	27.5 Inch	Mountain Bike		21 Speed			
+709	https://m.media-amazon.com/images/I/71TceJJHliL._AC_UY218_.jpg	OneSport							
+"1,399.00"	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Electric	20 Inch			7 Speed			Adults
+169.99	https://m.media-amazon.com/images/I/811qvEFfbpL._AC_UY218_.jpg	Steel				6 Speed			
+149.99	https://m.media-amazon.com/images/I/71Ef8+KF5cL._AC_UY218_.jpg	InSync		Mountain Bike	Men	18 Speed			
+221.04	https://m.media-amazon.com/images/I/81Ozd1TKRKL._AC_UY218_.jpg	Steel	26 Inch	Mountain Bike					
+229.99	https://m.media-amazon.com/images/I/71tMue0vTOL._AC_UY218_.jpg	27.5	27.5 Inch	Mountain Bike	Men	21 Speeds	Aluminum Frame		
+179.99	https://m.media-amazon.com/images/I/71X2XY4vz2L._AC_UY218_.jpg	Freesia	16 Inch		Girls				Kids
+126	https://m.media-amazon.com/images/I/71MhenIZ3aL._AC_UY218_.jpg	Mountainbike	26 Inch	Mountain Bike	Men	21 Speeds			
+209.99	https://m.media-amazon.com/images/I/71HE8wRYqOL._AC_UY218_.jpg	27.5Inch	27.5Inch	Mountain Bike	Men	21 Speed			
+269.99	https://m.media-amazon.com/images/I/71iCMC4Yb-L._AC_UY218_.jpg	Hiland	27.5 Inch	Mountain Bike	Men	21 Speeds	Aluminum Frame		
+149.99	https://m.media-amazon.com/images/I/71ChbjJlN6L._AC_UY218_.jpg	Breeze		Mountain Bike	Women	6 Speed	Steel Frame		
+"1,599.00"	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	Electric	26 Inch			7 Speed		Disc Brake	Adults
+209.99	https://m.media-amazon.com/images/I/71kWA4ndbkL._AC_UY218_.jpg	27.5	27.5 Inch	Mountain Bike	Men	21 Speeds		Disc Brake	
+399.99	https://m.media-amazon.com/images/I/71F44pGPsAL._AC_UY218_.jpg	U1							
+549.99	https://m.media-amazon.com/images/I/81m4xtW13UL._AC_UY218_.jpg	26							
+99.99	https://m.media-amazon.com/images/I/71J--D13SfL._AC_UY218_.jpg	20	20 Inch	Mountain Bike		7 Speed			
+169.99	https://m.media-amazon.com/images/I/61RrrWVuXkL._AC_UY218_.jpg	10kg							
+139.99	https://m.media-amazon.com/images/I/61s6xlqSDyL._AC_UY218_.jpg	BSC300							
+289.99	https://m.media-amazon.com/images/I/81SQc5-psGL._AC_UY218_.jpg	Alloy	27.5 Inch	Mountain Bike		21 Speed			
+249.99	https://m.media-amazon.com/images/I/71fvh8QDsDL._AC_UY218_.jpg	Ritual						Caliper Brake	Kids
+199.99	https://m.media-amazon.com/images/I/71wE2I8PoRL._AC_UY218_.jpg	Hiland	26 Inch	Mountain Bike	Women	21 Speed	Steel Frame		
+499	https://m.media-amazon.com/images/I/71JuUcTZJnL._AC_UY218_.jpg	700C			Men				Adults
+709	https://m.media-amazon.com/images/I/71TceJJHliL._AC_UY218_.jpg	OneSport							
+"1,166.99"	https://m.media-amazon.com/images/I/71oFhgwXn0L._AC_UY218_.jpg	Electric		Mountain Bike					Adults
+179.99	https://m.media-amazon.com/images/I/61mmJorVyFL._AC_UY218_.jpg	Hiland	20 Inch	Mountain Bike	Boys			V brake	Kids
+999	https://m.media-amazon.com/images/I/71iNKb9P2RL._AC_UY218_.jpg	Fat		Mountain Bike					Adults
+269.99	https://m.media-amazon.com/images/I/71K9AiQx0GL._AC_UY218_.jpg	26	26 Inch	Mountain Bike	Men	21 Speed	Steel Frame	Disc Brake	
+869	https://m.media-amazon.com/images/I/7150Ah9tD9L._AC_UY218_.jpg	Ebikes							Adults
+"1,499.00"	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	Electric	26 Inch			7 Speed		Disc Brake	Adults
+399	https://m.media-amazon.com/images/I/61wr-Cuz4WL._AC_UY218_.jpg	Folding			Unisex				
+199.99	https://m.media-amazon.com/images/I/71Y3TQnZ8gL._AC_UY218_.jpg	Hiland	29 Inch	Mountain Bike	Men	21 Speeds	High-Tensile Steel Frame	V Brake	Adults
+249.99	https://m.media-amazon.com/images/I/7149-6Y6TwL._AC_UY218_.jpg	Missy			Girls				Youth
+229.99	https://m.media-amazon.com/images/I/71awSYpdOFL._AC_UY218_.jpg	Hiland	26 Inch		Boys				Adults
+"1,399.00"	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Electric	20 Inch			7 Speed			Adults
+189.99	https://m.media-amazon.com/images/I/714be7wMYBL._AC_UY218_.jpg	Hiland		Mountain Bike	Men	21 Speeds	Steel Frame		
+259.99	https://m.media-amazon.com/images/I/71VWwMh0LzL._AC_UY218_.jpg	Hiland	26 Inch	Mountain Bike	Men	21 Speeds	Aluminum Frame		
+	https://m.media-amazon.com/images/I/71vUI07aBHL._AC_UY218_.jpg	26''				7 Speed		Disc Brake	Adults
+	https://m.media-amazon.com/images/I/81Ug3cURtgL._AC_UY218_.jpg	"26"""				7 Speed		Disc Brake	Adults
+119.99	https://m.media-amazon.com/images/I/61nXwOnFtNL._AC_UL640_QL65_.jpg	Bryton							
+169.99	https://m.media-amazon.com/images/I/61RrrWVuXkL._AC_UY218_.jpg	10kg							
+2.52	https://m.media-amazon.com/images/I/61N7M0mTgaL._AC_UY218_.jpg	Boys		Road Bike	Boys				
+150	https://m.media-amazon.com/images/I/71ChbjJlN6L._AC_UY218_.jpg	Breeze		Mountain Bike	Women	6 Speed	Steel Frame		
+	https://m.media-amazon.com/images/I/71vh5L8XzVL._AC_UY218_.jpg	29	29 Inch	Mountain Bike	Men			Disc Brake	
+270	https://m.media-amazon.com/images/I/81JvvsZHxyL._AC_UY218_.jpg	Extent	27.5 Inch	Mountain Bike	Men	18 Speed			
+599	https://m.media-amazon.com/images/I/71iBOb86CgL._AC_UY218_.jpg	M1		Mountain Bike		21 Speed			Adults
+709	https://m.media-amazon.com/images/I/71TceJJHliL._AC_UY218_.jpg	OneSport							
+"1,499.00"	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	Electric	26 Inch			7 Speed		Disc Brake	Adults
+170	https://m.media-amazon.com/images/I/71YkZJnepLL._AC_UY218_.jpg	Jetstream							
+197.34	https://m.media-amazon.com/images/I/81wBQgdRo4L._AC_UY218_.jpg	Avenue		Hybrid Bike	Women				
+164.99	https://m.media-amazon.com/images/I/71EZ2IEJVdL._AC_UY218_.jpg	26	26 Inch	Road Bike		1 Speed			
+259.99	https://m.media-amazon.com/images/I/71Oy71VXMkL._AC_UY218_.jpg	UK		Mountain Bike		21 Speeds		Disc Brake	
+"1,399.00"	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Electric	20 Inch			7 Speed			Adults
+109.99	https://m.media-amazon.com/images/I/71vRoYsDiWL._AC_UY218_.jpg	14	14 Inch						Children
+499.99	https://m.media-amazon.com/images/I/81UQNT1hKeL._AC_UY218_.jpg	"26"""						Disc Brake	Adults
+249.99	https://m.media-amazon.com/images/I/71fB2FQV-fL._AC_UY218_.jpg	Extent	24 Inch	Mountain Bike	Boys				
+749.99	https://m.media-amazon.com/images/I/71A2T8aAxDL._AC_UY218_.jpg	Electric		Mountain Bike		7 Speed			
+179.99	https://m.media-amazon.com/images/I/71X2XY4vz2L._AC_UY218_.jpg	Freesia	16 Inch		Girls				Kids
+259.99	https://m.media-amazon.com/images/I/712ErfQujVL._AC_UY218_.jpg	Guide			Girls				
+189.99	https://m.media-amazon.com/images/I/71dcuKKpiwL._AC_UY218_.jpg	24	24 Inch		Women		Steel Frame	V Brake	
+189.99	https://m.media-amazon.com/images/I/61LI+6CWalL._AC_UY218_.jpg	Arden		Mountain Bike	Women				
+599	https://m.media-amazon.com/images/I/812I9YozCTL._AC_UY218_.jpg	Electric			Women				
+119.99	https://m.media-amazon.com/images/I/61nXwOnFtNL._AC_UL640_QL65_.jpg	Bryton							
+169.99	https://m.media-amazon.com/images/I/61RrrWVuXkL._AC_UY218_.jpg	10kg							
+139.99	https://m.media-amazon.com/images/I/61s6xlqSDyL._AC_UY218_.jpg	BSC300							
+189.99	https://m.media-amazon.com/images/I/61LI+6CWalL._AC_UY218_.jpg	Arden		Mountain Bike	Women				
+173.09	https://m.media-amazon.com/images/I/714lAQKQ1VL._AC_UY218_.jpg	Carina		Hybrid Bike	Women	6 Speed	Steel Frame	Disc Brake	
+409	https://m.media-amazon.com/images/I/71CRKSWs77L._AC_UY218_.jpg	T16			Unisex			Disc Brake	
+199.99	https://m.media-amazon.com/images/I/41DuDcmqI8L._AC_UY218_.jpg	Basis		Mountain Bike	Boys				
+949	https://m.media-amazon.com/images/I/71cJWirAwyL._AC_UY218_.jpg	E-bike		Mountain Bike	Women				Adults
+709	https://m.media-amazon.com/images/I/71TceJJHliL._AC_UY218_.jpg	OneSport							
+639.99	https://m.media-amazon.com/images/I/717janb63rL._AC_UY218_.jpg	Electric		Mountain Bike					Adults
+"1,399.00"	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Electric	20 Inch			7 Speed			Adults
+549	https://m.media-amazon.com/images/I/71q6K1lcOjL._AC_UY218_.jpg	U1		Mountain Bike		21 Speed			Adults
+209.99	https://m.media-amazon.com/images/I/71g+fCwHJlL._AC_UY218_.jpg	27.5	27.5 Inch	Mountain Bike	Men			Disc Brake	
+"1,166.99"	https://m.media-amazon.com/images/I/71oFhgwXn0L._AC_UY218_.jpg	Electric		Mountain Bike					Adults
+371.42	https://m.media-amazon.com/images/I/81r-xQ3NsCL._AC_UY218_.jpg	Full		Mountain Bike	Men	18 Speed		Disc Brake	
+559	https://m.media-amazon.com/images/I/71AD1vV3FdL._AC_UY218_.jpg	700C			Men				Adults
+249.08	https://m.media-amazon.com/images/I/71jkgUkBAcL._AC_UY218_.jpg	Citylite				6 Speed			
+229.9	https://m.media-amazon.com/images/I/71hazNwigjL._AC_UY218_.jpg	27.5	27.5 Inch	Mountain Bike	Men			Disc Brake	
+599	https://m.media-amazon.com/images/I/717B9XEvxqL._AC_UY218_.jpg	M100		Mountain Bike	Men				Adults
+243.78	https://m.media-amazon.com/images/I/71z6zr-+FUL._AC_UY218_.jpg	Range			Men				
+69.99	https://m.media-amazon.com/images/I/71n-NNPzrBL._AC_UY218_.jpg	12	12 Inch						Children
+549	https://m.media-amazon.com/images/I/616NNhMVSKL._AC_UY218_.jpg	Electric			Men				Adults
+229.12	https://m.media-amazon.com/images/I/81+LLR8SwPL._AC_UY218_.jpg	Zonda		Mountain Bike				Disc Brake	
+169.99	https://m.media-amazon.com/images/I/61RrrWVuXkL._AC_UY218_.jpg	10kg							
+139.99	https://m.media-amazon.com/images/I/61s6xlqSDyL._AC_UY218_.jpg	BSC300							
+589	https://m.media-amazon.com/images/I/71M0JPCC9uS._AC_UY218_.jpg	Electric			Men				
+69.99	https://m.media-amazon.com/images/I/71n-NNPzrBL._AC_UY218_.jpg	12	12 Inch						Children
+"1,299.00"	https://m.media-amazon.com/images/I/71HFP+-5n6L._AC_UY218_.jpg	Electric						Disc Brake	Adults
+499.99	https://m.media-amazon.com/images/I/71nXBhpZlfL._AC_UY218_.jpg	BK35							Adults
+949	https://m.media-amazon.com/images/I/71cJWirAwyL._AC_UY218_.jpg	E-bike		Mountain Bike	Women				Adults
+709	https://m.media-amazon.com/images/I/71TceJJHliL._AC_UY218_.jpg	OneSport							
+225.99	https://m.media-amazon.com/images/I/71MRBbRlViL._AC_UY218_.jpg	"26"""						Disc brake	
+649	https://m.media-amazon.com/images/I/61HhYPRJPsL._AC_UY218_.jpg	Electric			Women				Adults
+295.99	https://m.media-amazon.com/images/I/717FWlo8TgL._AC_UY218_.jpg	"20"""				7 Speeds			
+189.99	https://m.media-amazon.com/images/I/81hhQNqAWdL._AC_UY218_.jpg	Blade		Mountain Bike		6 Speed			
+"1,499.00"	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	Electric	26 Inch			7 Speed		Disc Brake	Adults
+229.99	https://m.media-amazon.com/images/I/61Stt9rbntL._AC_UY218_.jpg	Arden		Mountain Bike	Women	21 Speed			Adults
+169	https://m.media-amazon.com/images/I/61MtIF+xZOL._AC_UY218_.jpg	"20"""							
+189.99	https://m.media-amazon.com/images/I/714UMQw7TUL._AC_UY218_.jpg	AMOS			Boys				Kids
+849	https://m.media-amazon.com/images/I/71wiIsAw3WL._AC_UY218_.jpg	Braver		mountain bike	men				adults
+135	https://m.media-amazon.com/images/I/613a7tyKKQL._AC_UY218_.jpg	20''				7 Speed			Adults
+499.99	https://m.media-amazon.com/images/I/71j7cnrro1L._AC_UY218_.jpg	Hiland			Men				Adults
+"1,399.00"	https://m.media-amazon.com/images/I/71J4fo7qLPL._AC_UY218_.jpg	26”			Men	21 Speed			Adults
+859	https://m.media-amazon.com/images/I/71f0RhsEa4L._AC_UY218_.jpg	Electric							Adults
+239.99	https://m.media-amazon.com/images/I/71YSOLOrvXL._AC_UY218_.jpg	Hiland		Mountain Bike	Men	21 Speeds		V brake	
+119.99	https://m.media-amazon.com/images/I/61nXwOnFtNL._AC_UL640_QL65_.jpg	Bryton							
