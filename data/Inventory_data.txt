@@ -1,0 +1,90 @@
+InventoryID	Price	Image URL	Brand_Name	Size	Type	Gender	Speed	Frame	Brake_Type	Age	Suspension	TireType	CustomerRating
+001	209.99	https://m.media-amazon.com/images/I/71bM-9kKqQL._AC_UY218_.jpg	Bianchi	27.5Inch	Road Bike	Girls	18 Speed	High-Tensile Steel Frame	Disc Brake	Youth	Full Suspension	Tubeless	5
+002	949.0	https://m.media-amazon.com/images/I/71cJWirAwyL._AC_UY218_.jpg	Bianchi	29 Inch	BMX	Unisex	1 Speed	Aluminum Frame	V Brake	Kids	Front Suspension	Tube	5
+003	169.99	https://m.media-amazon.com/images/I/61OwPoOpGVL._AC_UY218_.jpg	Bianchi	26 Inch	Mountain Bike	Unisex	7 Speed	Carbon Fiber	Disc Brake	Adults	No Suspension	Tubeless	3
+004	254.99	https://m.media-amazon.com/images/I/81DPZ3XfrwL._AC_UY218_.jpg	Bianchi	26 Inch	Folding Bike	Girls	6 Speed	High-Tensile Steel Frame	V Brake	Youth	Front Suspension	Tubeless	1
+005	150.0	https://m.media-amazon.com/images/I/61zFR6j3wzL._AC_UY218_.jpg	Bianchi	26 Inch	Hybrid	Unisex	7 Speed	Titanium	Disc Brake	Youth	Front Suspension	Tube	1
+006	259.99	https://m.media-amazon.com/images/I/81qN7R3j1zL._AC_UY218_.jpg	Bianchi	16 Inch	Electric Bike	Men	7 Speed	Aluminum Frame	Caliper Brake	Adults	Full Suspension	Tube	1
+007	1399.0	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Bianchi	12 Inch	Gravel Bike	Unisex	6 Speed	Titanium	V Brake	Adults	Front Suspension	Tubeless	4
+008	169.99	https://m.media-amazon.com/images/I/811qvEFfbpL._AC_UY218_.jpg	Cannondale	16 Inch	Road Bike	Girls	21 Speed	Carbon Fiber	V Brake	Kids	Front Suspension	Tube	5
+009	149.99	https://m.media-amazon.com/images/I/71Ef8+KF5cL._AC_UY218_.jpg	Cannondale	16 Inch	BMX	Men	18 Speed	Titanium	Disc Brake	Youth	Full Suspension	Tube	1
+010	221.04	https://m.media-amazon.com/images/I/81Ozd1TKRKL._AC_UY218_.jpg	Cannondale	12 Inch	Mountain Bike	Men	6 Speed	Steel Frame	V Brake	Adults	Front Suspension	Tube	1
+011	229.99	https://m.media-amazon.com/images/I/71tMue0vTOL._AC_UY218_.jpg	Cannondale	20 Inch	Folding Bike	Women	6 Speed	High-Tensile Steel Frame	Caliper Brake	Kids	No Suspension	Tubeless	1
+012	179.99	https://m.media-amazon.com/images/I/71X2XY4vz2L._AC_UY218_.jpg	Cannondale	16 Inch	Hybrid	Boys	7 Speed	Aluminum Frame	V Brake	Kids	Full Suspension	Tubeless	4
+013	126.0	https://m.media-amazon.com/images/I/71MhenIZ3aL._AC_UY218_.jpg	Cannondale	16 Inch	Electric Bike	Unisex	18 Speed	High-Tensile Steel Frame	V Brake	Youth	Full Suspension	Tube	4
+014	209.99	https://m.media-amazon.com/images/I/71HE8wRYqOL._AC_UY218_.jpg	Cannondale	20 Inch	Gravel Bike	Unisex	6 Speed	Carbon Fiber	Caliper Brake	Kids	Front Suspension	Tube	4
+015	269.99	https://m.media-amazon.com/images/I/71iCMC4Yb-L._AC_UY218_.jpg	BMC	26 Inch	Road Bike	Boys	7 Speed	Titanium	Caliper Brake	Adults	Front Suspension	Tubeless	5
+016	149.99	https://m.media-amazon.com/images/I/71ChbjJlN6L._AC_UY218_.jpg	BMC	27.5 Inch	BMX	Women	21 Speed	Titanium	Caliper Brake	Adults	No Suspension	Tube	5
+017	1599.0	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	BMC	24 Inch	Mountain Bike	Unisex	1 Speed	High-Tensile Steel Frame	Disc Brake	Kids	No Suspension	Tubeless	2
+018	209.99	https://m.media-amazon.com/images/I/71kWA4ndbkL._AC_UY218_.jpg	BMC	16 Inch	Folding Bike	Boys	18 Speed	Steel Frame	V Brake	Youth	Full Suspension	Tubeless	2
+019	399.99	https://m.media-amazon.com/images/I/71F44pGPsAL._AC_UY218_.jpg	BMC	16 Inch	Hybrid	Unisex	7 Speed	Carbon Fiber	V Brake	Youth	Full Suspension	Tube	3
+020	549.99	https://m.media-amazon.com/images/I/81m4xtW13UL._AC_UY218_.jpg	BMC	16 Inch	Electric Bike	Women	7 Speed	Carbon Fiber	Disc Brake	Youth	Full Suspension	Tube	2
+021	99.99	https://m.media-amazon.com/images/I/71J--D13SfL._AC_UY218_.jpg	BMC	26 Inch	Gravel Bike	Women	21 Speed	Carbon Fiber	V Brake	Adults	Front Suspension	Tubeless	2
+022	289.99	https://m.media-amazon.com/images/I/81SQc5-psGL._AC_UY218_.jpg	Merida	29 Inch	Road Bike	Men	1 Speed	Titanium	Caliper Brake	Kids	Full Suspension	Tubeless	1
+023	249.99	https://m.media-amazon.com/images/I/71fvh8QDsDL._AC_UY218_.jpg	Merida	27.5 Inch	BMX	Boys	7 Speed	Aluminum Frame	Rim Brake	Youth	Full Suspension	Tubeless	5
+024	199.99	https://m.media-amazon.com/images/I/71wE2I8PoRL._AC_UY218_.jpg	Merida	26 Inch	Mountain Bike	Unisex	6 Speed	Aluminum Frame	Rim Brake	Youth	Full Suspension	Tube	2
+025	499.0	https://m.media-amazon.com/images/I/71JuUcTZJnL._AC_UY218_.jpg	Merida	20 Inch	Folding Bike	Boys	21 Speed	Steel Frame	Disc Brake	Kids	No Suspension	Tube	5
+026	1166.99	https://m.media-amazon.com/images/I/71oFhgwXn0L._AC_UY218_.jpg	Merida	14 Inch	Hybrid	Girls	21 Speed	Titanium	Hydraulic Brake	Adults	Front Suspension	Tube	3
+027	179.99	https://m.media-amazon.com/images/I/61mmJorVyFL._AC_UY218_.jpg	Merida	26 Inch	Electric Bike	Boys	7 Speed	Aluminum Frame	Caliper Brake	Youth	Front Suspension	Tubeless	5
+028	269.99	https://m.media-amazon.com/images/I/71K9AiQx0GL._AC_UY218_.jpg	Merida	24 Inch	Gravel Bike	Men	18 Speed	Aluminum Frame	Disc Brake	Youth	Front Suspension	Tubeless	5
+029	1499.0	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	Giant	12 Inch	Road Bike	Women	18 Speed	High-Tensile Steel Frame	Rim Brake	Youth	Full Suspension	Tube	3
+030	399.0	https://m.media-amazon.com/images/I/61wr-Cuz4WL._AC_UY218_.jpg	Giant	29 Inch	BMX	Boys	18 Speed	Steel Frame	V Brake	Kids	Full Suspension	Tubeless	5
+031	199.99	https://m.media-amazon.com/images/I/71Y3TQnZ8gL._AC_UY218_.jpg	Giant	14 Inch	Mountain Bike	Girls	6 Speed	Steel Frame	Rim Brake	Adults	Front Suspension	Tube	2
+032	249.99	https://m.media-amazon.com/images/I/7149-6Y6TwL._AC_UY218_.jpg	Giant	26 Inch	Folding Bike	Women	21 Speed	High-Tensile Steel Frame	Disc Brake	Youth	No Suspension	Tube	3
+033	229.99	https://m.media-amazon.com/images/I/71awSYpdOFL._AC_UY218_.jpg	Giant	27.5 Inch	Hybrid	Women	18 Speed	Carbon Fiber	Disc Brake	Youth	No Suspension	Tube	2
+034	1399.0	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Giant	26 Inch	Electric Bike	Men	21 Speed	Carbon Fiber	Hydraulic Brake	Kids	No Suspension	Tubeless	3
+035	189.99	https://m.media-amazon.com/images/I/714be7wMYBL._AC_UY218_.jpg	Giant	20 Inch	Gravel Bike	Unisex	1 Speed	High-Tensile Steel Frame	Caliper Brake	Adults	Full Suspension	Tube	2
+036	259.99	https://m.media-amazon.com/images/I/71VWwMh0LzL._AC_UY218_.jpg	Specialized	29 Inch	Road Bike	Girls	6 Speed	Steel Frame	Caliper Brake	Youth	Front Suspension	Tube	5
+037	150.0	https://m.media-amazon.com/images/I/71ChbjJlN6L._AC_UY218_.jpg	Specialized	14 Inch	BMX	Boys	6 Speed	Titanium	V Brake	Youth	No Suspension	Tube	2
+038	270.0	https://m.media-amazon.com/images/I/81JvvsZHxyL._AC_UY218_.jpg	Specialized	20 Inch	Mountain Bike	Girls	21 Speed	Steel Frame	Hydraulic Brake	Adults	No Suspension	Tube	4
+039	599.0	https://m.media-amazon.com/images/I/71iBOb86CgL._AC_UY218_.jpg	Specialized	27.5 Inch	Folding Bike	Men	21 Speed	Aluminum Frame	Disc Brake	Adults	No Suspension	Tube	2
+040	1499.0	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	Specialized	29 Inch	Hybrid	Boys	18 Speed	Steel Frame	Rim Brake	Adults	Front Suspension	Tubeless	4
+041	170.0	https://m.media-amazon.com/images/I/71YkZJnepLL._AC_UY218_.jpg	Specialized	27.5 Inch	Electric Bike	Women	1 Speed	Carbon Fiber	Hydraulic Brake	Kids	No Suspension	Tube	5
+042	197.34	https://m.media-amazon.com/images/I/81wBQgdRo4L._AC_UY218_.jpg	Specialized	16 Inch	Gravel Bike	Girls	6 Speed	Steel Frame	Rim Brake	Kids	Full Suspension	Tubeless	5
+043	164.99	https://m.media-amazon.com/images/I/71EZ2IEJVdL._AC_UY218_.jpg	Trek	12 Inch	Road Bike	Women	18 Speed	Carbon Fiber	V Brake	Adults	Front Suspension	Tubeless	2
+044	259.99	https://m.media-amazon.com/images/I/71Oy71VXMkL._AC_UY218_.jpg	Trek	14 Inch	BMX	Unisex	18 Speed	Titanium	Caliper Brake	Kids	Front Suspension	Tube	4
+045	1399.0	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Trek	16 Inch	Mountain Bike	Women	6 Speed	Aluminum Frame	Caliper Brake	Youth	Front Suspension	Tubeless	5
+046	109.99	https://m.media-amazon.com/images/I/71vRoYsDiWL._AC_UY218_.jpg	Trek	29 Inch	Folding Bike	Unisex	21 Speed	Carbon Fiber	V Brake	Adults	No Suspension	Tube	1
+047	499.99	https://m.media-amazon.com/images/I/81UQNT1hKeL._AC_UY218_.jpg	Trek	20 Inch	Hybrid	Girls	1 Speed	Titanium	Disc Brake	Kids	Full Suspension	Tubeless	2
+048	249.99	https://m.media-amazon.com/images/I/71fB2FQV-fL._AC_UY218_.jpg	Trek	14 Inch	Electric Bike	Unisex	7 Speed	Titanium	Disc Brake	Adults	No Suspension	Tube	5
+049	749.99	https://m.media-amazon.com/images/I/71A2T8aAxDL._AC_UY218_.jpg	Trek	27.5 Inch	Gravel Bike	Unisex	1 Speed	High-Tensile Steel Frame	V Brake	Kids	Front Suspension	Tube	4
+050	179.99	https://m.media-amazon.com/images/I/71X2XY4vz2L._AC_UY218_.jpg	Bianchi	29 Inch	Electric Bike	Unisex	7 Speed	Aluminum Frame	Disc Brake	Youth	Full Suspension	Tubeless	2
+051	259.99	https://m.media-amazon.com/images/I/712ErfQujVL._AC_UY218_.jpg	Merida	20 Inch	Gravel Bike	Girls	7 Speed	Steel Frame	V Brake	Youth	Front Suspension	Tubeless	4
+052	189.99	https://m.media-amazon.com/images/I/71dcuKKpiwL._AC_UY218_.jpg	Merida	27.5 Inch	Gravel Bike	Unisex	21 Speed	Titanium	Rim Brake	Kids	No Suspension	Tube	1
+053	189.99	https://m.media-amazon.com/images/I/61LI+6CWalL._AC_UY218_.jpg	Specialized	20 Inch	Gravel Bike	Boys	7 Speed	Steel Frame	V Brake	Youth	No Suspension	Tube	4
+054	599.0	https://m.media-amazon.com/images/I/812I9YozCTL._AC_UY218_.jpg	Cannondale	12 Inch	Hybrid	Girls	1 Speed	Carbon Fiber	Rim Brake	Kids	Front Suspension	Tubeless	1
+055	189.99	https://m.media-amazon.com/images/I/61LI+6CWalL._AC_UY218_.jpg	Cannondale	27.5 Inch	Gravel Bike	Boys	1 Speed	Carbon Fiber	V Brake	Kids	Front Suspension	Tubeless	1
+056	173.09	https://m.media-amazon.com/images/I/714lAQKQ1VL._AC_UY218_.jpg	Specialized	27.5 Inch	Hybrid	Unisex	7 Speed	Steel Frame	Rim Brake	Kids	No Suspension	Tube	3
+057	409.0	https://m.media-amazon.com/images/I/71CRKSWs77L._AC_UY218_.jpg	Giant	27.5Inch	Hybrid	Girls	18 Speed	Aluminum Frame	Hydraulic Brake	Youth	Front Suspension	Tubeless	3
+058	199.99	https://m.media-amazon.com/images/I/41DuDcmqI8L._AC_UY218_.jpg	Giant	16 Inch	Gravel Bike	Unisex	6 Speed	Carbon Fiber	Disc Brake	Kids	Front Suspension	Tubeless	1
+059	949.0	https://m.media-amazon.com/images/I/71cJWirAwyL._AC_UY218_.jpg	Bianchi	20 Inch	Gravel Bike	Unisex	1 Speed	High-Tensile Steel Frame	Caliper Brake	Adults	Front Suspension	Tubeless	3
+060	639.99	https://m.media-amazon.com/images/I/717janb63rL._AC_UY218_.jpg	Cannondale	26 Inch	Electric Bike	Unisex	18 Speed	Steel Frame	Disc Brake	Youth	Front Suspension	Tubeless	5
+061	1399.0	https://m.media-amazon.com/images/I/71TyYmgX1kL._AC_UY218_.jpg	Merida	16 Inch	Folding Bike	Men	6 Speed	Steel Frame	V Brake	Youth	Full Suspension	Tubeless	4
+062	549.0	https://m.media-amazon.com/images/I/71q6K1lcOjL._AC_UY218_.jpg	Specialized	27.5Inch	Electric Bike	Boys	7 Speed	Aluminum Frame	Disc Brake	Adults	No Suspension	Tubeless	1
+063	209.99	https://m.media-amazon.com/images/I/71g+fCwHJlL._AC_UY218_.jpg	Trek	27.5 Inch	Road Bike	Men	21 Speed	Steel Frame	Hydraulic Brake	Adults	Front Suspension	Tube	5
+064	1166.99	https://m.media-amazon.com/images/I/71oFhgwXn0L._AC_UY218_.jpg	Giant	29 Inch	Hybrid	Unisex	21 Speed	Aluminum Frame	Caliper Brake	Youth	Front Suspension	Tube	4
+065	371.42	https://m.media-amazon.com/images/I/81r-xQ3NsCL._AC_UY218_.jpg	BMC	24 Inch	Hybrid	Unisex	18 Speed	Aluminum Frame	Rim Brake	Kids	No Suspension	Tubeless	5
+066	559.0	https://m.media-amazon.com/images/I/71AD1vV3FdL._AC_UY218_.jpg	Trek	12 Inch	BMX	Unisex	21 Speed	Titanium	Hydraulic Brake	Youth	Front Suspension	Tube	2
+067	249.08	https://m.media-amazon.com/images/I/71jkgUkBAcL._AC_UY218_.jpg	Giant	16 Inch	Road Bike	Boys	7 Speed	Carbon Fiber	V Brake	Adults	Full Suspension	Tubeless	3
+068	229.9	https://m.media-amazon.com/images/I/71hazNwigjL._AC_UY218_.jpg	Bianchi	24 Inch	Gravel Bike	Men	7 Speed	Steel Frame	V Brake	Youth	Front Suspension	Tubeless	4
+069	599.0	https://m.media-amazon.com/images/I/717B9XEvxqL._AC_UY218_.jpg	Merida	27.5 Inch	Gravel Bike	Boys	1 Speed	High-Tensile Steel Frame	Caliper Brake	Kids	No Suspension	Tubeless	5
+070	243.78	https://m.media-amazon.com/images/I/71z6zr-+FUL._AC_UY218_.jpg	Bianchi	29 Inch	Folding Bike	Men	1 Speed	Steel Frame	V Brake	Youth	Full Suspension	Tube	5
+071	69.99	https://m.media-amazon.com/images/I/71n-NNPzrBL._AC_UY218_.jpg	Merida	27.5 Inch	Hybrid	Girls	7 Speed	Steel Frame	Caliper Brake	Youth	No Suspension	Tubeless	5
+072	549.0	https://m.media-amazon.com/images/I/616NNhMVSKL._AC_UY218_.jpg	Bianchi	24 Inch	Hybrid	Boys	21 Speed	High-Tensile Steel Frame	V Brake	Kids	No Suspension	Tube	4
+073	229.12	https://m.media-amazon.com/images/I/81+LLR8SwPL._AC_UY218_.jpg	Specialized	29 Inch	Road Bike	Unisex	6 Speed	High-Tensile Steel Frame	Rim Brake	Kids	No Suspension	Tubeless	3
+074	589.0	https://m.media-amazon.com/images/I/71M0JPCC9uS._AC_UY218_.jpg	Bianchi	14 Inch	Road Bike	Men	6 Speed	Carbon Fiber	V Brake	Youth	Full Suspension	Tubeless	1
+075	69.99	https://m.media-amazon.com/images/I/71n-NNPzrBL._AC_UY218_.jpg	Merida	26 Inch	BMX	Boys	18 Speed	Titanium	Hydraulic Brake	Youth	Full Suspension	Tube	4
+076	499.99	https://m.media-amazon.com/images/I/71nXBhpZlfL._AC_UY218_.jpg	Specialized	24 Inch	Hybrid	Men	18 Speed	High-Tensile Steel Frame	Disc Brake	Kids	Full Suspension	Tubeless	2
+077	949.0	https://m.media-amazon.com/images/I/71cJWirAwyL._AC_UY218_.jpg	Trek	20 Inch	BMX	Men	6 Speed	Titanium	V Brake	Adults	No Suspension	Tube	5
+078	225.99	https://m.media-amazon.com/images/I/71MRBbRlViL._AC_UY218_.jpg	Giant	27.5Inch	Hybrid	Girls	7 Speed	Steel Frame	V Brake	Youth	Full Suspension	Tubeless	5
+079	649.0	https://m.media-amazon.com/images/I/61HhYPRJPsL._AC_UY218_.jpg	Trek	26 Inch	Road Bike	Boys	21 Speed	High-Tensile Steel Frame	Rim Brake	Youth	Full Suspension	Tubeless	5
+080	295.99	https://m.media-amazon.com/images/I/717FWlo8TgL._AC_UY218_.jpg	Cannondale	16 Inch	Road Bike	Boys	6 Speed	Steel Frame	Hydraulic Brake	Adults	Full Suspension	Tubeless	1
+081	189.99	https://m.media-amazon.com/images/I/81hhQNqAWdL._AC_UY218_.jpg	Merida	27.5 Inch	BMX	Men	6 Speed	High-Tensile Steel Frame	Caliper Brake	Kids	No Suspension	Tubeless	2
+082	1499.0	https://m.media-amazon.com/images/I/71Pc8UHj0zL._AC_UY218_.jpg	BMC	29 Inch	BMX	Unisex	18 Speed	Aluminum Frame	V Brake	Youth	Full Suspension	Tubeless	5
+083	229.99	https://m.media-amazon.com/images/I/61Stt9rbntL._AC_UY218_.jpg	Trek	27.5 Inch	BMX	Unisex	6 Speed	High-Tensile Steel Frame	Disc Brake	Adults	No Suspension	Tubeless	2
+084	189.99	https://m.media-amazon.com/images/I/714UMQw7TUL._AC_UY218_.jpg	Giant	26 Inch	Mountain Bike	Unisex	1 Speed	High-Tensile Steel Frame	Rim Brake	Kids	Full Suspension	Tube	2
+085	849.0	https://m.media-amazon.com/images/I/71wiIsAw3WL._AC_UY218_.jpg	BMC	27.5 Inch	Mountain Bike	Girls	21 Speed	High-Tensile Steel Frame	Hydraulic Brake	Kids	Front Suspension	Tube	4
+086	135.0	https://m.media-amazon.com/images/I/613a7tyKKQL._AC_UY218_.jpg	Trek	20 Inch	Hybrid	Boys	18 Speed	Steel Frame	V Brake	Kids	Full Suspension	Tubeless	5
+087	499.99	https://m.media-amazon.com/images/I/71j7cnrro1L._AC_UY218_.jpg	Merida	16 Inch	Hybrid	Women	18 Speed	High-Tensile Steel Frame	Caliper Brake	Kids	No Suspension	Tube	1
+088	1399.0	https://m.media-amazon.com/images/I/71J4fo7qLPL._AC_UY218_.jpg	Bianchi	29 Inch	Gravel Bike	Boys	6 Speed	Carbon Fiber	V Brake	Youth	Full Suspension	Tubeless	3
+089	239.99	https://m.media-amazon.com/images/I/71YSOLOrvXL._AC_UY218_.jpg	Cannondale	27.5 Inch	Folding Bike	Unisex	1 Speed	Steel Frame	Rim Brake	Youth	Front Suspension	Tube	4
